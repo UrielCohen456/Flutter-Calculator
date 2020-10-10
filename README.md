@@ -8,6 +8,6 @@ The expression solving is provided by the "math_expressions" package.
 
 Currently the brackets button doesn't work.
 
-![Writing The Expression](expression.png?raw=true "Title")
-![Clicking Calculate](calculated.png?raw=true "Title")
+![Writing The Expression](expression.png?raw=true "Writing The Expression")
+![Clicking Calculate](calculated.png?raw=true "Clicking Calculate")
 
